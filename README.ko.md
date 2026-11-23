@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](https://nodejs.org)
 
-![halias 데모 — 단축키 추가, 미리보기와 함께 퍼지 검색, 사용 통계](https://raw.githubusercontent.com/kwonmoto/halias/main/docs/demo.gif)
+![halias 데모 — 단축키 추가, 미리보기와 함께 퍼지 검색, 사용 통계](https://raw.githubusercontent.com/dev-harrykwon/halias/main/docs/demo.gif)
 
 ## 무엇이 다른가요?
 
@@ -29,7 +29,7 @@
 ```bash
 npm install -g halias
 # 또는 Homebrew 로 (Node 가 없으면 자동으로 함께 설치됩니다)
-brew install kwonmoto/tap/halias
+brew install dev-harrykwon/tap/halias
 ```
 
 `halias` 와 `ha` 가 글로벌로 등록됩니다. 일상에서는 짧은 `ha` 를 추천해요.
@@ -332,7 +332,7 @@ halias 환경 점검
 
 그 외에는 체크리스트 채우기보다 **실 사용에서 발견되는 마찰점** 기반으로 진행합니다.
 
-이슈/제안은 [GitHub issues](https://github.com/kwonmoto/halias/issues) 환영합니다.
+이슈/제안은 [GitHub issues](https://github.com/dev-harrykwon/halias/issues) 환영합니다.
 
 ## 개발
 

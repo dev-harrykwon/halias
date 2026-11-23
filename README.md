@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D20-brightgreen.svg)](https://nodejs.org)
 
-![halias demo — add a shortcut, fuzzy-search with preview, view usage stats](https://raw.githubusercontent.com/kwonmoto/halias/main/docs/demo.gif)
+![halias demo — add a shortcut, fuzzy-search with preview, view usage stats](https://raw.githubusercontent.com/dev-harrykwon/halias/main/docs/demo.gif)
 
 ## What's different?
 
@@ -29,7 +29,7 @@ Managing shell aliases used to mean editing `.zshrc` by hand. **halias** turns i
 ```bash
 npm install -g halias
 # or, via Homebrew (installs Node automatically if needed)
-brew install kwonmoto/tap/halias
+brew install dev-harrykwon/tap/halias
 ```
 
 Both `halias` and `ha` will be available globally. The shorter `ha` is recommended for daily use.
@@ -314,7 +314,7 @@ Search results now learn from where you actually use shortcuts. Shortcuts used i
 
 Beyond that: driven by real usage and friction discovered in daily work, not by feature checklists.
 
-Suggestions and bug reports welcome via [issues](https://github.com/kwonmoto/halias/issues).
+Suggestions and bug reports welcome via [issues](https://github.com/dev-harrykwon/halias/issues).
 
 ## Development
 
